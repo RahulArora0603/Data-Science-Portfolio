@@ -1,0 +1,93 @@
+[
+    {
+        "category": "Data Analytics",
+
+        "resources": [
+            {
+                "title": "NumPy Guide",
+
+                "image": "assets/icons/image.png",
+
+                "link": "https://github.com/RahulArora0603/learn-data-science/tree/main/Data%20Analysis/Numpy"
+            },
+            {
+                "title": "Pandas Guide",
+
+                "image": "assets/icons/pandas-logo-png_seeklogo-425787.png",
+
+                "link": "https://github.com/RahulArora0603/learn-data-science/tree/main/Data%20Analysis/Pandas"
+            },
+            {
+                "title": "Matplotlib Guide",
+
+                "image": "assets/icons/matplotlib-logo-png_seeklogo-428048.png",
+
+                "link": "https://github.com/RahulArora0603/learn-data-science/tree/main/Data%20Analysis/Matplotlib"
+            },
+            {
+                "title": "Plotly Guide",
+
+                "image": "assets/icons/thumbnail-plotly.png",
+
+                "link": "https://github.com/RahulArora0603/learn-data-science/tree/main/Data%20Analysis/Plotly"
+            }
+
+        ]
+    },
+
+    {
+        "category": "Machine Learning",
+
+        "resources": [
+            {
+                "title": "Scikit-Learn",
+
+                "image": "assets/icons/70-701741_scikit-learn.png",
+
+                "link": "https://github.com/RahulArora0603/learn-data-science/tree/main/ML%20and%20DL/Scikit%20Learn"
+            },
+            {
+                "title": "Tensorflow",
+
+                "image": "assets/icons/maxresdefault-1-1024x576.jpg",
+
+                "link": "#"
+            },
+            {
+                "title": "PyTorch",
+
+                "image": "assets/icons/1_LLVL8xUiUOBE8WHgzAuY-Q.png",
+
+                "link": "#"
+            },
+            {
+                "title": "OpenCV",
+
+                "image": "assets/icons/opencv.png",
+
+                "link": "#"
+            }
+        ]
+    },
+
+    {
+        "category": "AI / GenAI",
+
+        "resources": [
+            {
+                "title": "LangChain",
+
+                "image": "assets/icons/langchain-logo-png_seeklogo-611654.png",
+
+                "link": "https://www.langchain.com/"
+            },
+            {
+                "title": "Transformers",
+
+                "image": "assets/icons/Hugging_Face_Unveils_Idefics2_an_8B_Vision-Language_Model_hRxzddo-scaled.jpg",
+
+                "link": "#"
+            }
+        ]    
+    }
+]

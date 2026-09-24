@@ -1,0 +1,72 @@
+/* ==========================================
+   GOOGLE FONTS
+========================================== */
+
+:root {
+
+    /* ==========================
+       COLORS
+    ========================== */
+
+    --bg-color: #0B1120;
+    --section-color: #111827;
+    --card-color: #1A2332;
+
+    --primary: #46c6c8;
+    --primary-hover: #2563EB;
+
+    --secondary: #06B6D4;
+
+    --success: #10B981;
+
+    --white: #F8FAFC;
+
+    --text: #E5E7EB;
+
+    --text-light: #9CA3AF;
+
+    --border: rgba(255,255,255,.08);
+
+    --shadow:
+        0 12px 35px rgba(0,0,0,.35);
+
+    --shadow-hover:
+        0 18px 45px rgba(59,130,246,.18);
+
+    /* ==========================
+       TYPOGRAPHY
+    ========================== */
+
+    --heading-font: "Poppins", sans-serif;
+
+    --body-font: "Inter", sans-serif;
+
+    --h1: 3.4rem;
+
+    --h2: 2.2rem;
+
+    --h3: 1.3rem;
+
+    --body: 1rem;
+
+    --small: .9rem;
+
+    /* ==========================
+       SPACING
+    ========================== */
+
+    --section-padding: 90px;
+
+    --container-width: 1200px;
+
+    --card-gap: 35px;
+
+    --radius: 18px;
+
+    /* ==========================
+       TRANSITIONS
+    ========================== */
+
+    --transition: .30s ease;
+
+}

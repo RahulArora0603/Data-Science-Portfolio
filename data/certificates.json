@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Google Data Analytics",
+
+        "skills": [
+            "SQL",
+            "Excel",
+            "Tableau"
+        ],
+
+        "image": "certificates/Screenshot 2026-09-16 111630.png",
+
+        "pdf": "certificates/google-data-analytics.pdf"
+    },
+    {
+        "title": "Microsoft Data Viz Fundamentals - Coursera",
+
+        "skills": [
+            "Power BI Desktop",
+            "Power BI Service",
+            "Excel"
+        ],
+
+        "image": "certificates/Screenshot 2026-09-16 111903.png",
+
+        "pdf": "certificates/Coursera Data Viz Fundamentals Certificate.pdf"
+    },
+    {
+        "title": "Microsoft Data Preparation and Management - Coursera",
+
+        "skills": [
+            "Power BI Desktop",
+            "Power BI Service",
+            "Data Processing and Transformation",
+            "Power Query"
+        ],
+
+        "image": "certificates/Screenshot 2026-09-16 111933.png",
+
+        "pdf": "certificates/Coursera Data Preparation and Mgmt Certificate.pdf"
+    },
+    {
+        "title": "Microsoft Data Modelling and Architecture - Coursera",
+
+        "skills": [
+            "Power BI Desktop",
+            "Data Modelling",
+            "Normalization",
+            "Schema Design"
+        ],
+
+        "image": "certificates/Screenshot 2026-09-16 111811.png",
+
+        "pdf": "certificates/Data Modelling and Architecture Certificate.pdf"
+    },
+    {
+        "title": "AWS Cloud Technical Essentials - Amazon Web Services | Coursera",
+
+        "skills": [
+            "AWS EC2",
+            "AWS S3",
+            "AWS IAM",
+            "AWS DynamoDB",
+            "AWS Lambda",
+            "AWS ASG"
+        ],
+
+        "image": "certificates/Screenshot 2026-09-16 112000.png",
+
+        "pdf": "certificates/Coursera AWS Cloud Technical Essentials.pdf"
+    }
+]

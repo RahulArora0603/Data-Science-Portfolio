@@ -1,0 +1,74 @@
+{
+    "analytics": [
+        {
+            "skill": "Python",
+            "level": 10
+        },
+        {
+            "skill": "SQL",
+            "level": 10
+        },
+        {
+            "skill": "Power BI",
+            "level": 10
+        },
+        {
+            "skill": "Pandas",
+            "level": 10
+        },
+        {
+            "skill": "Tableau",
+            "level": 7
+        },
+        {
+            "skill": "Web Scraping",
+            "level": 9  
+        }
+    ],
+
+    "ml_ai": [
+        {
+            "skill": "Scikit-Learn",
+            "level": 9
+        },
+        {
+            "skill": "Tensorflow",
+            "level": 9
+        },
+        {
+            "skill": "PyTorch",
+            "level": 7
+        },
+        {
+            "skill": "LangChain",
+            "level": 8
+        },
+        {
+            "skill": "OpenCV",
+            "level": 10
+        }
+    ],
+
+    "data_science": [
+        {
+            "skill": "Data Cleaning",
+            "level": 10
+        },
+        {
+            "skill": "Data Preprocessing",
+            "level": 9
+        },
+        {
+            "skill": "Feature Engineering",
+            "level": 9
+        },
+        {
+            "skill": "A/B Testing",
+            "level": 8
+        },
+        {
+            "skill": "Statistics",
+            "level": 9
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+[
+    {
+        "title": "DocuSearch - Enterprise RAG Assistant with Agentic AI",
+
+        "description": "Built an enterprise-grade Retrieval-Augmented Generation (RAG) assistant capable of answering questions over PDFs, documentation, and internal knowledge bases. Combined vector databases, semantic search, and LLMs with agent workflows for reasoning, tool calling, citation generation, and multi-document retrieval.",
+
+        "image": "assets/projects/Screenshot 2026-09-22 210955.png",
+
+        "pdf": "#",
+
+        "github": "#",
+
+        "youtube": "#",
+        "technologies": [
+                    "LLMs","RAG","LangGraph","Google GenAI","ChromaDB","FastAPI","Transformers", "Embeddings"
+                ],
+        "button": "In progress"        
+    },
+    {
+        "title": "DesignBase | AI Powered Database Schema Designer and Validator",
+
+        "description": "Ideated, designed and built an AI-powered database design system that converts natural-language business requirements into validated relational schemas, SQL DDL, relationship diagrams, and security recommendations.",
+
+        "image":"assets/projects/6359ee850b1a324c795bdad2_Understanding Database Schemas.png",
+
+        "pdf": "#",
+
+        "github": "#",
+
+        "youtube": "#",
+        "technologies": [
+                    "LLMs","LangGraph","Google GenAI API","Vector Search", "GraphViz", "Schema Validation"
+                ],
+        "button": "In progress"        
+        
+    },
+    {
+        "title": "Semantic Movie Recommendation System (Netflix-Style AI Recommender)",
+
+        "description": "Built an intelligent movie recommendation system that understands semantic meaning instead of relying on keyword matching. Leverages Sentence Transformers embeddings and similarity search to recommend movies based on plot descriptions, themes, and user-selected titles. Developed with FastAPI and Jinja2 to deliver a responsive Netflix-inspired web interface.",
+
+        "image": "assets/projects/Screenshot 2026-05-21 151421.png",
+
+        "pdf": "case studies/Marketing AB Testing.pdf",
+
+        "github": "https://github.com/RahulArora0603/End-to-End-Semantic-Movie-Recommendation-System",
+
+        "youtube": "#",
+        "technologies": [
+                    "Python" ,"FastAPI" ,"Jinja2", "Sentence Transformers" ,
+                    "Embeddings", "Cosine Similarity", "NLP"
+                ],
+        "button": "View Code"        
+        
+    },
+    {
+        "title": "Marketing Campaign A/B Testing",
+
+        "description": "Conducted an A/B Test to analyze the conversion rates between Ad and PSA groups. A Two Proportions Z-test was used for the experiment.",
+
+        "image": "assets/projects/How-Does-AB-Testing-in-PPC-Ads-Work.jpg",
+
+        "pdf": "case studies/Marketing AB Testing.pdf",
+
+        "github": "https://www.kaggle.com/code/rahularora060/marketing-campaign-a-b-testing",
+
+        "youtube": "#",
+        "technologies": [
+                    "Python",
+                    "FastAPI",
+                    "TensorFlow",
+                    "Docker"
+                ],
+        "button": "In progress"        
+    },
+    {
+        "title": "Brain Tumor Detection using Machine Learning",
+
+        "description": "Developed a brain tumor classification system trained on medical imaging data using multiple machine learning algorithms, including XGBoost and Scikit-learn models. Built an interactive Streamlit application that allows users to upload MRI scans and receive real-time predictions with an intuitive interface.",
+
+        "image": "assets/projects/__results___8_1.png",
+
+        "pdf": "#",
+
+        "github": "https://www.kaggle.com/code/rahularora060/brain-cancer-detection-and-classification-resnet",
+
+        "youtube": "#",
+        "technologies": [
+            "Python","Scikit-learn","XGBoost","Streamlit", "Medical AI", "Classification"
+                ]
+    },
+    {
+        "title": "Road Potholes Detection, Mapping and Management System",
+
+        "description": "Designed a Pothole detection system using pretrained YOLO V8 detection model. Used XML tree and OpenCV to map the detected labels for training. Recall 0.736.",
+
+        "image": "assets/projects/potholedetection.jpg",
+
+        "pdf": "#",
+
+        "github": "https://www.kaggle.com/code/rahularora060/pothole-detection-system",
+
+        "youtube": "#",
+        "technologies": [
+                    "Python", "YOLO V8","OpenCV" ,"PyTorch" ,"Deep Learning","Feature Engineering"
+                ]
+    }
+
+]
